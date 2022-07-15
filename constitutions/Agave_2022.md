@@ -31,3 +31,16 @@ If the oracle responds in favour of the proposer the proposal will be unlocked a
 ## Off-chain enforcement
 
 While there is no canonical off-chain forum that represents the Agave community, there are community spaces including the Agave GitHub, Discourse, and Discord communities, and others forums which may emerge in the future which are expected to adhere to this covenant.
+
+{ 
+  "@context": "https://constitutions.metagov.org",
+  "type": "constitution",
+  "title": "<Community Covenant of Agave >",
+  "name": "<Agave>",
+  "daoURI": "<URI of daoURI, see EIP-4824>",
+  "dateCreated": "<2021>",
+  "dateModified": "<YYYY-MM-DD>",
+  "previousConstitutionURI": "<URI>",
+  "inForce": "<True, False>",
+  "archived": "<04-01-2022>"
+}
