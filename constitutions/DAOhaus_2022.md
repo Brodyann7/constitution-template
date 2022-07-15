@@ -45,3 +45,16 @@ We strive first to create value, not extract.
 We strive first to collaborate, not compete.
 
 We strive first to coordinate, not control.
+
+{ 
+  "@context": "https://constitutions.metagov.org",
+  "type": "Manifesto",
+  "title": "<DAOhaus Manifesto v2.0.0>",
+  "name": "<name of the DAO>",
+  "daoURI": "<URI of daoURI, see EIP-4824>",
+  "dateCreated": "<2022-02-11>",
+  "dateModified": "<YYYY-MM-DD>",
+  "previousConstitutionURI": "<URI>",
+  "inForce": "<True>",
+  "archived": "<2022-03-23>"
+}
