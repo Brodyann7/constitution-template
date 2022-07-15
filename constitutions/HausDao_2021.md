@@ -235,4 +235,15 @@ If the Minion, Transmutation, and/or Vesting contracts are compromised the token
 
 ![DAOhaus Splash](https://raw.githubusercontent.com/odyssy-automaton/daohaus-web/develop/src/assets/daohaus__hero--falling.png)
 
-
+{ 
+  "@context": "https://constitutions.metagov.org",
+  "type": "Manifesto",
+  "title": "<HausDAO Manifesto>",
+  "name": "<HausDAO>",
+  "daoURI": "<URI of daoURI, see EIP-4824>",
+  "dateCreated": "<YYYY-MM-DD>",
+  "dateModified": "<YYYY-MM-DD>",
+  "previousConstitutionURI": "<URI>",
+  "inForce": "<True>",
+  "archived": "<2022-11-01>"
+}
