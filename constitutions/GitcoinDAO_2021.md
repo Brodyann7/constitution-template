@@ -202,3 +202,16 @@ We are still working on the navigation & orientation of GitcoinDAO.   If you are
 *Thanks to @gitcoin it has helped us to discover our earliest talent and supercharged @KodaDot development.* - Matej
 
 *People ask me all the time how I got into Solidity and NFT dev. The answer is @gitcoin! Beginning of the year I just started doing bounties for a bunch of different projects (@synthetix_io @akashnet_ @SovrynBTC etc) and found the NFT ones were my fave. Such a good way to learn!*  - sarasioux.eth
+
+{ 
+  "@context": "https://constitutions.metagov.org",
+  "type": "TLDR",
+  "title": "<TLDR of Gitcoin DAO >",
+  "name": "<name of the DAO>",
+  "daoURI": "<URI of daoURI, see EIP-4824>",
+  "dateCreated": "<2021-09-01>",
+  "dateModified": "<YYYY-MM-DD>",
+  "previousConstitutionURI": "<URI>",
+  "inForce": "<True>",
+  "archived": "<2021-12-30>"
+}
