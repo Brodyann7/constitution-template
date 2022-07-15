@@ -47,3 +47,16 @@ Examples of unacceptable behaviour include:
 - Public or private harassment
 - Publishing others’ private information, such as a physical or email address, without their explicit permission
 - Other conduct which could reasonably be considered inappropriate in a professional setting.
+
+{ 
+  "@context": "https://constitutions.metagov.org",
+  "type": "charter",
+  "title": "<Charter of BrightDAO>",
+  "name": "<BrightDAO>",
+  "daoURI": "<URI of daoURI, see EIP-4824>",
+  "dateCreated": "<YYYY-MM-DD>",
+  "dateModified": "<YYYY-MM-DD>",
+  "previousConstitutionURI": "<URI>",
+  "inForce": "<True>",
+  "archived": "<2022-07-08>"
+}
