@@ -52,3 +52,17 @@ Openness and transparency
 * DXdao builds space for communities, while honoring the individual, and accepts accountability and responsibility for the actions and influences of the DXdao, in order to further self-improvement.
 
 *This manifesto represents the current history, ideals and goals of DXdao.*
+
+{ 
+  "@context": "https://constitutions.metagov.org",
+  "type": "Manifesto",
+  "title": "<DXdao Manifesto>",
+  "name": "<DXdaoO>",
+  "daoURI": "<URI of daoURI, see EIP-4824>",
+  "dateCreated": "<YYYY-MM-DD>",
+  "dateModified": "<YYYY-MM-DD>",
+  "previousConstitutionURI": "<URI>",
+  "inForce": "<True, False>",
+  "archived": "<2022-06-07>"
+}
+
