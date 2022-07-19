@@ -35,3 +35,15 @@ Decred (/ˈdi:ˈkred/, /dɪˈkred/, dee-cred) is a secure, adaptable and self-fu
     The will of the stakeholders, as expressed through their on-chain and Politeia ticket voting, is the ultimate decision-making force for the project.
     This constitution will be ratified by a Politeia vote before it takes effect, and can be further amended by approval of subsequent Politeia proposals.
 
+{ 
+  "@context": "https://constitutions.metagov.org",
+  "type": "constitution",
+  "title": "<Constitution of Decred>",
+  "name": "<Decred>",
+  "daoURI": "<URI of daoURI, see EIP-4824>",
+  "dateCreated": "<YYYY-MM-DD>",
+  "dateModified": "<YYYY-MM-DD>",
+  "previousConstitutionURI": "<URI>",
+  "inForce": "<True, False>",
+  "archived": "<2021-10-30>"
+}
