@@ -215,3 +215,16 @@ Nothing in this Constitution is intended to or shall create any partnership, joi
 - The Parties have no fiduciary duties or equivalent obligations towards each other. 
 
 The Effect Network Foundation may assign their rights or duties arising out of or in connection with this Agreement to any of their affiliates or in connection with a merger or other disposition of all or substantially all of their assets.
+
+{ 
+  "@context": "https://constitutions.metagov.org",
+  "type": "constitution",
+  "title": "<Constitution of EffectDAO>",
+  "name": "<EffectDAO>",
+  "daoURI": "<URI of daoURI, see EIP-4824>",
+  "dateCreated": "<YYYY-MM-DD>",
+  "dateModified": "<YYYY-MM-DD>",
+  "previousConstitutionURI": "<URI>",
+  "inForce": "<True>",
+  "archived": "<2021-10-30>"
+}
