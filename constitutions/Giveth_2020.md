@@ -49,3 +49,16 @@ Giveth community spaces, including the Giveth Forum, GitHub and Discord, as well
 Enforcement
 
 Giveth intends to use Gravity Conflict Management and make use of its graduated sanctions in order to ensure community standards.
+
+{ 
+  "@context": "https://constitutions.metagov.org",
+  "type": "Community Covenant",
+  "title": "<Community Covenant of Giveth DAO>",
+  "name": "<Giveth>",
+  "daoURI": "<URI of daoURI, see EIP-4824>",
+  "dateCreated": "<YYYY-MM-DD>",
+  "dateModified": "<YYYY-MM-DD>",
+  "previousConstitutionURI": "<URI>",
+  "inForce": "<True>",
+  "archived": "<2021-12-30>"
+}
