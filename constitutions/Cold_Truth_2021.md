@@ -26,3 +26,16 @@ If the oracle responds in favour of the proposer the proposal will be unlocked a
 Off-chain enforcement
 
 While there is no canonical off-chain forum that represents the CTC community, there are community spaces including the CTC GitHub, Telegram, and Discord communities, and others forums which may emerge in the future which are expected to adhere to this covenant.
+
+{ 
+  "@context": "https://constitutions.metagov.org",
+  "type": "Community Covenant",
+  "title": "<Community Covenant of Cold Truth>",
+  "name": "<Cold Truth>",
+  "daoURI": "<URI of daoURI, see EIP-4824>",
+  "dateCreated": "<YYYY-MM-DD>",
+  "dateModified": "<YYYY-MM-DD>",
+  "previousConstitutionURI": "<URI>",
+  "inForce": "<True, False>",
+  "archived": "<2021-10-30>"
+}
